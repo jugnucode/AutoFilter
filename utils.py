@@ -1,3 +1,4 @@
+from info import SHORTENER_API
 import logging
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid
 from info import *

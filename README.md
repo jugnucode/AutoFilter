@@ -12,10 +12,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="CyberStainBot Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>CyberStainBot</b>
 </h1>
 
 
@@ -122,7 +122,7 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/greymatters_bots_discussion)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/bot_support_tg)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/cyberstainbot)
 
 ## Thanks to 

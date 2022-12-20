@@ -82,7 +82,7 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://graph.org/How-To-Open-ShortUrlLink-12-03"
+DOWNLOAD_TEXT_URL = "https://graph.org/How-to-open-MoneyKamalo-Link-12-20"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Subscribe"

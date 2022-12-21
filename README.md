@@ -120,7 +120,7 @@ enable - re-enable chat.
 ban  - to ban a user.
 unban  - to unban a user.
 channel - to get list of total connected channels
-broadcast - to broadcast a message to all Eva Maria users
+broadcast - to broadcast a message to all AutoFilter Maria users
 batch - to create link for multiple posts
 link - to create link for one post
 ```
@@ -129,7 +129,7 @@ link - to create link for one post
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/cyberstainbot)
 
 ## Credits 
-* [![ᎯℕUℛᎯᎶ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/sources_cods)
+* [![ᎯℕUℛᎯᎶ](https://img.shields.io/static/v1?label=AutoFilterMaria&message=devs&color=critical)](https://telegram.dog/sources_cods)
 
 
 ## Thanks to 

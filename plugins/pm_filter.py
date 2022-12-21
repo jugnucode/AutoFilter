@@ -331,7 +331,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         keyword = query.data.split(":")[2]
         reply_text, btn, alerts, fileid = await find_filter(grp_id, keyword)
         if alerts is not None:
-            alerts = ast.literal_eval(alerts)
+            alerts = ast.literal_AutoFilterl(alerts)
             alert = alerts[int(i)]
             alert = alert.replace("\\n", "\n").replace("\\t", "\t")
             await query.answer(alert, show_alert=True)
@@ -766,7 +766,7 @@ async def manual_filters(client, message, text=False):
                                 disable_web_page_preview=True,
                                 reply_to_message_id=reply_id)
                         else:
-                            button = eval(btn)
+                            button = AutoFilterl(btn)
                             await client.send_message(
                                 group_id,
                                 reply_text,
@@ -782,7 +782,7 @@ async def manual_filters(client, message, text=False):
                             reply_to_message_id=reply_id
                         )
                     else:
-                        button = eval(btn)
+                        button = AutoFilterl(btn)
                         await message.reply_cached_media(
                             fileid,
                             caption=reply_text or "",
